@@ -171,7 +171,7 @@ select:invalid{
     background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,
     rgba(2, 2, 2, 0.295) 25%,
     rgba(2, 2, 2, 0.295) 25%,
-    rgba(0,0,0,1) 100%), url('../img/bg\ image\ 2.png');
+    rgba(0,0,0,1) 100%), url(../img/bg\ image\ 2.png);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -223,7 +223,7 @@ select:invalid{
     rgba(2, 2, 2, 0.295) 25%,
     rgba(2, 2, 2, 0.295) 25%,
     rgba(0,0,0,1) 99%),
-    url('../img/bg\ image\ 3.png');
+    url(../img/bg\ image\ 3.png);
     background-repeat: no-repeat;
     background-size: cover;
     
